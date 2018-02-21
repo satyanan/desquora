@@ -1,4 +1,3 @@
-# electron-quick-start
 
 ## To Use
 
